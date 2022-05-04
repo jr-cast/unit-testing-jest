@@ -1,8 +1,8 @@
 # Unit Testing with Jest 🥼!
 
-Practical tests for JavaScript functions using the Jest library using AAA patterns and jest test() and describe() functionalities
+> Practical tests for JavaScript functions using the Jest library using AAA patterns and jest test() and describe() functionalities
 
-[jestlogo](https://nx.dev/documentation/shared/jest-logo.png)
+[](https://www.albertoluebbert.com/blog/wp-content/uploads/2020/06/jest.png)
 
 ## Built With
 
