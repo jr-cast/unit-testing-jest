@@ -2,7 +2,7 @@
 
 > Practical tests for JavaScript functions using the Jest library using AAA patterns and jest test() and describe() functionalities
 
-[jest](https://www.albertoluebbert.com/blog/wp-content/uploads/2020/06/jest.png)
+![jest](https://www.albertoluebbert.com/blog/wp-content/uploads/2020/06/jest.png)
 
 ## Built With
 
